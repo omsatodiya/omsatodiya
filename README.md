@@ -3,7 +3,7 @@
 - 🖥️  Checkout my LeetCode profile at https://leetcode.com/u/om_satodiya/
 - ✉️  You can contact me at omsatodiya96@gmail.com
 - 🚀  I'm currently working on Competitve Coding in C++
-- 🧠  I'm learning C++, React, NodeJS, NextJS, Tailwind CSS, Mongo DB
+- 🧠  I'm learning C++, React, NodeJS, NextJS, Tailwind CSS, BootStrap, Mongo DB
 - ⚡  I'm currently pursuing my B.Tech in "Computer Science and Engineering" from SVNIT Surat ( Batch of 2027 )
 
 <!---
