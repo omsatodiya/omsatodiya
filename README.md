@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Om Satodiya
-- 🌍  I'm based in Rajkot, India
+- 🌍  I'm based in Rajkot, Gujarat, India
 - 🖥️  Checkout my LeetCode profile at https://leetcode.com/u/om_9609/
 - ✉️  You can contact me at omsatodiya96@gmail.com
 - 🚀  I'm currently working on Competitve Coding in C++
