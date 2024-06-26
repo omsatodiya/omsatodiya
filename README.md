@@ -1,4 +1,4 @@
-![Banner Image](https://img.freepik.com/free-vector/matrix-style-binary-code-digital-background-with-falling-numbers_1017-25336.jpg?size=626&ext=jpg)
+
 <h1 align="center">Hi 👋, I'm Om Satodiya</h1>
 <h3 align="center">A passionate Competitive and a Frontend Coder</h3>
 <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" align="right" alt="Coding" width="400" >
