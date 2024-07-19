@@ -4,7 +4,7 @@
 <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" align="right" alt="Coding" width="400" >
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=omsatodiya&label=Profile%20views&color=0e75b6&style=flat" alt="omsatodiya" /> </p>
 
-- 🔭 I’m currently working on **TrackIt - Expense Tracking Website**
+- 🔭 I’m currently working on **Beacon - Online T-Shirt E-Commerce WebApp**
 
 - 🌱 I’m currently learning **React.JS, Node.JS, Express.JS**
 
