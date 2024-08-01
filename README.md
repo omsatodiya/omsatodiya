@@ -4,11 +4,11 @@
 <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" align="right" alt="Coding" width="400" >
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=omsatodiya&label=Profile%20views&color=0e75b6&style=flat" alt="omsatodiya" /> </p>
 
-- 🔭 I’m currently working on **Beacon - Online T-Shirt E-Commerce WebApp**
+- 🔭 I’m currently working on **India Darshan - Website on Indian Heritage and Culture - Web Wonders **
 
-- 🌱 I’m currently learning **React.JS, Node.JS, Express.JS**
+- 🌱 I’m currently learning **Mongo DB, Node.JS, Express.JS**
 
-- 💬 Ask me about **Javascript and Data Structures & Algorithms**
+- 💬 Ask me about **Javascript and Data Structures **
 
 - 📫 How to reach me **omsatodiya96@gmail.com**
 
