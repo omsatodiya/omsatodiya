@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Om Satodiya</h1>
-<h3 align="center">A passionate Competitive and a Frontend Coder</h3>
+<h3 align="center">A passionate Competitive Coder and a Frontend Developer</h3>
 <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" align="right" alt="Coding" width="400" >
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=omsatodiya&label=Profile%20views&color=0e75b6&style=flat" alt="omsatodiya" /> </p>
 
