@@ -4,7 +4,7 @@
 <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" align="right" alt="Coding" width="400" >
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=omsatodiya&label=Profile%20views&color=0e75b6&style=flat" alt="omsatodiya" /> </p>
 
-- 🌱 I’m currently learning **Mongo DB, Node.JS, Express.JS**
+- 🌱 I’m currently learning **React JS**
 
 - 💬 Ask me about **Javascript and Data Structures**
 
