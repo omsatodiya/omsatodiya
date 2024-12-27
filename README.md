@@ -301,17 +301,7 @@
         />
       </a>
     </td>
-    <td>
-      <a href="https://www.w3schools.com/js/" target="_blank" rel="noreferrer">
-        <img
-          src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
-          alt="js"
-          width="60"
-          height="60"
-          style="border: 2px solid lightgray; border-radius: 8px; padding: 5px"
-        />
-      </a>
-    </td>
+    
   </tr>
 </table>
 
