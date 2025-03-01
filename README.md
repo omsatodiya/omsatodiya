@@ -26,7 +26,7 @@
 </p>
 
 <p style="text-align: center" align="center">
-  🌱 I’m currently learning <strong>React JS</strong>
+  🌱 I’m currently learning <strong>Next JS</strong>
 </p>
 <p style="text-align: center" align="center">
   💬 Ask me about <strong>Javascript and Data Structures</strong>
