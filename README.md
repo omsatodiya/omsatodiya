@@ -1,14 +1,21 @@
-<h1 align="center" style="text-align: center">Hi 👋, I'm Om Satodiya</h1>
+<h1 align="center" style="text-align: center">
+  Hi
+  <img
+    src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif"
+    width="30px"
+    height="30px"
+  />, I'm Om Satodiya
+</h1>
 <h3 align="center" style="text-align: center">
-  A passionate Competitive Programmer and a MERN Stack Developer
+  A passionate Full Stack Developer & Competitive Programmer
 </h3>
 
 <div
   style="display: flex; justify-content: center; align-items: center"
   align="center"
 >
-<br/>
-<br>
+  <br />
+  <br />
   <img
     src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif"
     align="center"
@@ -18,22 +25,32 @@
   />
 </div>
 
-<p align="center" style="text-align: center">
+<div align="center" style="margin: 20px 0">
   <img
     src="https://komarev.com/ghpvc/?username=omsatodiya&label=Profile%20views&color=0e75b6&style=flat"
     alt="omsatodiya"
   />
-</p>
+</div>
 
-<p style="text-align: center" align="center">
-  🌱 I’m currently learning <strong>Next JS</strong>
-</p>
-<p style="text-align: center" align="center">
-  💬 Ask me about <strong>Javascript and Data Structures</strong>
-</p>
-<p style="text-align: center" align="center">
-  📫 How to reach me <strong>omsatodiya96@gmail.com</strong>
-</p>
+<div align="center" style="margin: 20px 0">
+  <p style="margin: 8px 0">
+    <strong>🎯 About Me:</strong>
+  </p>
+  <p style="margin: 8px 0">
+    🔭 I'm currently working on <strong>Next.js and Firebase Projects</strong>
+  </p>
+  <p style="margin: 8px 0">
+    🌱 I'm currently learning
+    <strong>TypeScript</strong>
+  </p>
+  <p style="margin: 8px 0">
+    💬 Ask me about
+    <strong>MERN Stack, Next.js, Data Structures & Algorithms</strong>
+  </p>
+  <p style="margin: 8px 0">
+    📫 Reach me at <strong>omsatodiya96@gmail.com</strong>
+  </p>
+</div>
 
 <h3 align="center" style="font-weight: bold; text-align: center">
   Connect with me:
@@ -301,7 +318,33 @@
         />
       </a>
     </td>
-    
+    <td>
+      <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
+        <img
+          src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg"
+          alt="nextjs"
+          width="60"
+          height="60"
+          style="
+            border: 2px solid lightgray;
+            border-radius: 8px;
+            padding: 5px;
+            filter: brightness(0) invert(1);
+          "
+        />
+      </a>
+    </td>
+    <td>
+      <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
+        <img
+          src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg"
+          alt="firebase"
+          width="60"
+          height="60"
+          style="border: 2px solid lightgray; border-radius: 8px; padding: 5px"
+        />
+      </a>
+    </td>
   </tr>
 </table>
 
@@ -319,4 +362,3 @@
     alt="omsatodiya"
   />
 </p>
-
