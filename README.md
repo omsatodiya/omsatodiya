@@ -1,6 +1,6 @@
 <h1 align="center" style="text-align: center">Hi 👋, I'm Om Satodiya</h1>
 <h3 align="center" style="text-align: center">
-  A passionate Competitive Coder and a MERN Stack Developer
+  A passionate Competitive Programmer and a MERN Stack Developer
 </h3>
 
 <div
