@@ -53,7 +53,7 @@
 </div>
 
 <h3 align="center" style="font-weight: bold; text-align: center">
-  Connect with me:
+  Coding Profiles:
 </h3>
 <table align="center" style="text-align: center">
   <tr>
