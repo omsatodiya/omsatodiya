@@ -50,7 +50,11 @@
   <p style="margin: 8px 0">
     📫 Reach me at <strong>omsatodiya96@gmail.com</strong>
   </p>
+  <p style="margin: 8px 4px">
+    🌐 Portfolio: <a href="https://omsatodiya.netlify.app/" target="_blank"><strong>omsatodiya.netlify.app</strong></a>
+  </p>
 </div>
+
 
 <h3 align="center" style="font-weight: bold; text-align: center">
   Coding Profiles:
