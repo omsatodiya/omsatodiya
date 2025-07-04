@@ -74,7 +74,7 @@
         />
       </a>
     </td>
-    <td>
+<!--     <td>
       <a href="https://www.codechef.com/users/om_9932" target="blank">
         <img
           src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg"
@@ -83,7 +83,7 @@
           width="40"
         />
       </a>
-    </td>
+    </td> -->
     <td>
       <a href="https://codeforces.com/profile/omsatodiya96" target="blank">
         <img
