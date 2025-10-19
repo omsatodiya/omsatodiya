@@ -37,11 +37,11 @@
     <strong>🎯 About Me:</strong>
   </p>
   <p style="margin: 8px 0">
-    🔭 I'm currently working on <strong>Next.js and Firebase Projects</strong>
+    🔭 I'm currently working on <strong>Real-World Projects/strong>
   </p>
   <p style="margin: 8px 0">
     🌱 I'm currently learning
-    <strong>TypeScript</strong>
+    <strong>Machine Learning</strong>
   </p>
   <p style="margin: 8px 0">
     💬 Ask me about
