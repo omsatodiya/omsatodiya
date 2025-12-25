@@ -37,11 +37,11 @@
     <strong>🎯 About Me:</strong>
   </p>
   <p style="margin: 8px 0">
-    🔭 I'm currently working on <strong>Real-World Projects/strong>
+    🔭 I'm currently working on <strong>Real-World Projects</strong>
   </p>
   <p style="margin: 8px 0">
     🌱 I'm currently learning
-    <strong>Machine Learning</strong>
+    <strong>Devops</strong>
   </p>
   <p style="margin: 8px 0">
     💬 Ask me about
@@ -55,59 +55,6 @@
   </p>
 </div>
 
-
-<h3 align="center" style="font-weight: bold; text-align: center">
-  Coding Profiles:
-</h3>
-<table align="center" style="text-align: center">
-  <tr>
-    <td>
-      <a
-        href="https://linkedin.com/in/https://linkedin.com/in/om-satodiya9609"
-        target="blank"
-      >
-        <img
-          src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
-          alt="https://linkedin.com/in/om-satodiya9609"
-          height="30"
-          width="40"
-        />
-      </a>
-    </td>
-<!--     <td>
-      <a href="https://www.codechef.com/users/om_9932" target="blank">
-        <img
-          src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg"
-          alt="om_satodiya"
-          height="50"
-          width="40"
-        />
-      </a>
-    </td> -->
-    <td>
-      <a href="https://codeforces.com/profile/omsatodiya96" target="blank">
-        <img
-          src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg"
-          alt="omsatodiya96"
-          height="30"
-          width="40"
-        />
-      </a>
-    </td>
-    <td>
-      <a href="https://www.leetcode.com/tranquil_96" target="blank">
-        <img
-          src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg"
-          alt="om_9609"
-          height="30"
-          width="40"
-        />
-      </a>
-    </td>
-  </tr>
-</table>
-
-<br />
 <br />
 <h3 align="center" style="text-align: center">Languages and Tools:</h3>
 <table
@@ -360,9 +307,4 @@
   />
 </p>
 
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=omsatodiya&show_icons=true&locale=en"
-    alt="omsatodiya"
-  />
-</p>
+
