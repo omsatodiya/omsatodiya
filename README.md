@@ -1,304 +1,71 @@
-<h1 align="center" style="text-align: center">
-  Hi
-  <img
-    src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif"
-    width="30px"
-    height="30px"
-  />, I'm Om Satodiya
-</h1>
-<h3 align="center" style="text-align: center">
-  A passionate Full Stack Developer & Competitive Programmer
-</h3>
+<h1> Hey, I’m Om! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h1>
+  
 
-<div
-  style="display: flex; justify-content: center; align-items: center"
-  align="center"
->
-  <br />
-  <br />
-  <img
-    src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif"
-    align="center"
-    alt="Coding"
-    width="400"
-    style="display: block; margin-left: auto; margin-right: auto"
-  />
+<p align="center">
+  <a href="https://linkedin.com/in/om-satodiya9609">
+    <img alt="Om | LinkedIn" width="30" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/linkedin.svg" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="mailto:omsatodiya96@gmail.com">
+    <img alt="Om | Email" width="30" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/gmail.svg" />
+  </a>
+  &nbsp;&nbsp;
+  
+</p>
+
+<p align="center">
+  <img alt="Profile Views" src="https://komarev.com/ghpvc/?username=omsatodiya&label=Profile%20views&color=0e75b6&style=flat" />
+  &nbsp;&nbsp;
+  <a href="https://wakatime.com/@45c5f064-3af8-47f3-9170-3dcadb77f9d5">
+    <img src="https://wakatime.com/badge/user/45c5f064-3af8-47f3-9170-3dcadb77f9d5.svg" alt="wakatime" />
+  </a>
+</p>
+
+<div align="center">
+  <img width="200" height="200" alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
 </div>
 
-<div align="center" style="margin: 20px 0">
-  <img
-    src="https://komarev.com/ghpvc/?username=omsatodiya&label=Profile%20views&color=0e75b6&style=flat"
-    alt="omsatodiya"
-  />
+<p align="center">
+  Hi, I’m Om Satodiya, a passionate Full Stack Developer & Competitive Programmer. I enjoy building real-world projects, working with modern web stacks, and sharpening my problem-solving skills through Data Structures & Algorithms. Feel free to reach out :)
+</p>
+
+<div align="center">
+<div>🔭 I'm currently working on <strong>Real-World Projects</strong></div>
+<div>🌱 I'm currently learning <strong>Devops</strong></div>
+<div>💬 Ask me about <strong>MERN Stack, Next.js, Data Structures & Algorithms</strong></div>
+<div>📫 Reach me at <a href="mailto:omsatodiya96@gmail.com">omsatodiya96@gmail.com</a></div>
+<div>🌐 Portfolio: <a href="https://omsatodiya.netlify.app/" target="_blank">omsatodiya.netlify.app</a></div>
 </div>
 
-<div align="center" style="margin: 20px 0">
-  <p style="margin: 8px 0">
-    <strong>🎯 About Me:</strong>
-  </p>
-  <p style="margin: 8px 0">
-    🔭 I'm currently working on <strong>Real-World Projects</strong>
-  </p>
-  <p style="margin: 8px 0">
-    🌱 I'm currently learning
-    <strong>Devops</strong>
-  </p>
-  <p style="margin: 8px 0">
-    💬 Ask me about
-    <strong>MERN Stack, Next.js, Data Structures & Algorithms</strong>
-  </p>
-  <p style="margin: 8px 0">
-    📫 Reach me at <strong>omsatodiya96@gmail.com</strong>
-  </p>
-  <p style="margin: 8px 4px">
-    🌐 Portfolio: <a href="https://omsatodiya.netlify.app/" target="_blank"><strong>omsatodiya.netlify.app</strong></a>
-  </p>
-</div>
+<br>
+<p align="center">
+  <a href="https://skillicons.dev">
+<img src="https://go-skill-icons.vercel.app/api/icons?i=anaconda,androidstudio,bootstrap,c,cpp,python,css,dart,django,docker,fastapi,figma,firebase,flask,flutter,gcp,git,github,githubactions,html,huggingface,ai,js,jupyter,kaggle,langchain,linux,latex,mongodb,mysql,netlify,nextjs,nodejs,npm,ollama,opencv,postgres,postman,prisma,py,qdrant,react,redis,replit,seaborn,sklearn,sqlite,streamlit,tailwind,tensorflow,typescript,supabase,ubuntu,vercel,vite,vscode&perline=10" />
 
-<br />
-<h3 align="center" style="text-align: center">Languages and Tools:</h3>
-<table
-  align="center"
-  style="width: 100%; border-collapse: collapse; text-align: center"
->
-  <tr>
-    <td>
-      <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
-        <img
-          src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/1280px-Bootstrap_logo.svg.png"
-          alt="bootstrap"
-          width="60"
-          height="60"
-          style="
-            border: 2px solid lightgray;
-            border-radius: 8px;
-            padding: 5px;
-            filter: brightness(0) invert(1);
-          "
-        />
-      </a>
-    </td>
-    <td>
-      <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
-        <img
-          src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg"
-          alt="c"
-          width="60"
-          height="60"
-          style="border: 2px solid lightgray; border-radius: 8px; padding: 5px"
-        />
-      </a>
-    </td>
-    <td>
-      <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
-        <img
-          src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"
-          alt="cplusplus"
-          width="60"
-          height="60"
-          style="border: 2px solid lightgray; border-radius: 8px; padding: 5px"
-        />
-      </a>
-    </td>
-    <td>
-      <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-        <img
-          src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"
-          alt="css3"
-          width="60"
-          height="60"
-          style="border: 2px solid lightgray; border-radius: 8px; padding: 5px"
-        />
-      </a>
-    </td>
-    <td>
-      <a href="https://dart.dev" target="_blank" rel="noreferrer">
-        <img
-          src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg"
-          alt="dart"
-          width="60"
-          height="60"
-          style="border: 2px solid lightgray; border-radius: 8px; padding: 5px"
-        />
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <a href="https://expressjs.com" target="_blank" rel="noreferrer">
-        <img
-          src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg"
-          alt="express"
-          width="60"
-          height="60"
-          style="
-            border: 2px solid lightgray;
-            border-radius: 8px;
-            padding: 5px;
-            filter: brightness(0) invert(1);
-          "
-        />
-      </a>
-    </td>
-    <td>
-      <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
-        <img
-          src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg"
-          alt="figma"
-          width="60"
-          height="60"
-          style="border: 2px solid lightgray; border-radius: 8px; padding: 5px"
-        />
-      </a>
-    </td>
-    <td>
-      <a href="https://flutter.dev" target="_blank" rel="noreferrer">
-        <img
-          src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg"
-          alt="flutter"
-          width="60"
-          height="60"
-          style="border: 2px solid lightgray; border-radius: 8px; padding: 5px"
-        />
-      </a>
-    </td>
-    <td>
-      <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-        <img
-          src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"
-          alt="git"
-          width="60"
-          height="60"
-          style="border: 2px solid lightgray; border-radius: 8px; padding: 5px"
-        />
-      </a>
-    </td>
-    <td>
-      <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-        <img
-          src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"
-          alt="html5"
-          width="60"
-          height="60"
-          style="border: 2px solid lightgray; border-radius: 8px; padding: 5px"
-        />
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <a
-        href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"
-        target="_blank"
-        rel="noreferrer"
-      >
-        <img
-          src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
-          alt="javascript"
-          width="60"
-          height="60"
-          style="border: 2px solid lightgray; border-radius: 8px; padding: 5px"
-        />
-      </a>
-    </td>
-    <td>
-      <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-        <img
-          src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg"
-          alt="mongodb"
-          width="60"
-          height="60"
-          style="border: 2px solid lightgray; border-radius: 8px; padding: 5px"
-        />
-      </a>
-    </td>
-    <td>
-      <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-        <img
-          src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"
-          alt="mysql"
-          width="60"
-          height="60"
-          style="border: 2px solid lightgray; border-radius: 8px; padding: 5px"
-        />
-      </a>
-    </td>
-    <td>
-      <a href="https://nodejs.org" target="_blank" rel="noreferrer">
-        <img
-          src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"
-          alt="nodejs"
-          width="60"
-          height="60"
-          style="border: 2px solid lightgray; border-radius: 8px; padding: 5px"
-        />
-      </a>
-    </td>
-    <td>
-      <a href="https://www.python.org" target="_blank" rel="noreferrer">
-        <img
-          src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"
-          alt="python"
-          width="60"
-          height="60"
-          style="border: 2px solid lightgray; border-radius: 8px; padding: 5px"
-        />
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-        <img
-          src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"
-          alt="react"
-          width="60"
-          height="60"
-          style="border: 2px solid lightgray; border-radius: 8px; padding: 5px"
-        />
-      </a>
-    </td>
-    <td>
-      <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
-        <img
-          src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg"
-          alt="tailwind"
-          width="60"
-          height="60"
-          style="border: 2px solid lightgray; border-radius: 8px; padding: 5px"
-        />
-      </a>
-    </td>
-    <td>
-      <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
-        <img
-          src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg"
-          alt="nextjs"
-          width="60"
-          height="60"
-          style="
-            border: 2px solid lightgray;
-            border-radius: 8px;
-            padding: 5px;
-            filter: brightness(0) invert(1);
-          "
-        />
-      </a>
-    </td>
-    <td>
-      <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
-        <img
-          src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg"
-          alt="firebase"
-          width="60"
-          height="60"
-          style="border: 2px solid lightgray; border-radius: 8px; padding: 5px"
-        />
-      </a>
-    </td>
-  </tr>
-</table>
+  </a>
+</p>
 
-<br />
+  
+<h2>My Contribution Graph<h2>
+
+<p align="center">
+<img width="800" src="https://github-readme-activity-graph.vercel.app/graph?username=omsatodiya" />
+<br>
+<p>
+
+<h2>GitHub Stats<h2>
+
+<br>
+<p align="center">
+  <a href="https://github-readme-stats-sigma-five.vercel.app/api?username=omsatodiya&show_icons=true&theme=tokyonight">
+    <img width="400" src="https://github-readme-stats-sigma-five.vercel.app/api?username=omsatodiya&show_icons=true&theme=tokyonight" />
+  </a>
+  <a href="https://github-readme-streak-stats.herokuapp.com/?user=omsatodiya&theme=tokyonight">
+    <img width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=omsatodiya&theme=tokyonight" />
+  </a>
+  <a href="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=omsatodiya&theme=dark&layout=compact">
+    <img width="400" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=omsatodiya&theme=dark&layout=compact" /> 
+  </a>
+</p>
 
 
