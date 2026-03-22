@@ -32,7 +32,7 @@
 <div align="center">
 <div>🔭 I'm currently working on <strong>Real-World Projects</strong></div
 <div>📫 Reach me at <a href="mailto:omsatodiya96@gmail.com">omsatodiya96@gmail.com</a></div>
-<div>🌐 Portfolio: <a href="https://omsatodiya.netlify.app/" target="_blank">omsatodiya.netlify.app</a></div>
+<div align="center">🌐 Portfolio: <a href="https://omsatodiya.netlify.app/" target="_blank">omsatodiya.netlify.app</a></div>
 </div>
 
 <br>
