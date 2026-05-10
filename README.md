@@ -38,7 +38,7 @@
 <br>
 <p align="center">
   <a href="https://skillicons.dev">
-<img src="https://go-skill-icons.vercel.app/api/icons?i=anaconda,androidstudio,bootstrap,c,cpp,python,css,dart,django,docker,fastapi,figma,firebase,flask,flutter,gcp,git,github,githubactions,html,huggingface,ai,js,jupyter,kaggle,langchain,linux,latex,mongodb,mysql,netlify,nextjs,nodejs,npm,ollama,opencv,postgres,postman,prisma,py,qdrant,react,redis,replit,seaborn,sklearn,sqlite,streamlit,tailwind,tensorflow,typescript,supabase,ubuntu,vercel,vite,vscode&perline=10" />
+<img src="https://go-skill-icons.vercel.app/api/icons?i=anaconda,bootstrap,c,cpp,python,css,django,docker,fastapi,figma,firebase,flask,gcp,git,github,githubactions,html,js,langchain,mongodb,mysql,netlify,nextjs,nodejs,npm,opencv,postgres,postman,prisma,py,qdrant,react,redis,seaborn,sklearn,sqlite,streamlit,tailwind,tensorflow,typescript,supabase,vercel&perline=7" />
 
   </a>
 </p>
