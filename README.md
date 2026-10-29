@@ -1,69 +1,96 @@
-<h1> Hey, I’m Om! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h1>
-  
+<!-- ============ HEADER ============ -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,100:7aa2f7&height=180&section=header&text=Om%20Satodiya&fontSize=48&fontColor=c0caf5&fontAlignY=36&desc=backend%20%C2%B7%20distributed%20systems%20%C2%B7%20applied%20AI&descAlignY=58&descSize=16" />
 
 <p align="center">
-  <a href="https://linkedin.com/in/om-satodiya9609">
-    <img alt="Om | LinkedIn" width="30" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/linkedin.svg" />
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=3200&pause=900&color=7AA2F7&center=true&vCenter=true&width=600&lines=I+build+backends+that+don't+fall+over.;Queues%2C+RAG+pipelines%2C+multi-tenant+Postgres.;Final-year+CS+%40+SVNIT+Surat.;LeetCode+1809+%C2%B7+Codeforces+1344." alt="typing intro" />
   </a>
-  &nbsp;&nbsp;
-  <a href="mailto:omsatodiya96@gmail.com">
-    <img alt="Om | Email" width="30" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/gmail.svg" />
-  </a>
-  &nbsp;&nbsp;
-  
 </p>
 
 <p align="center">
-  <img alt="Profile Views" src="https://komarev.com/ghpvc/?username=omsatodiya&label=Profile%20views&color=0e75b6&style=flat" />
-  &nbsp;&nbsp;
-  <a href="https://wakatime.com/@45c5f064-3af8-47f3-9170-3dcadb77f9d5">
-    <img src="https://wakatime.com/badge/user/45c5f064-3af8-47f3-9170-3dcadb77f9d5.svg" alt="wakatime" />
-  </a>
+  <a href="https://om-satodiya.vercel.app"><img src="https://img.shields.io/badge/Portfolio-1a1b27?style=for-the-badge&logo=vercel&logoColor=c0caf5" /></a>
+  <a href="https://linkedin.com/in/om-satodiya9609"><img src="https://img.shields.io/badge/LinkedIn-1a1b27?style=for-the-badge&logo=linkedin&logoColor=7aa2f7" /></a>
+  <a href="mailto:omsatodiya96@gmail.com"><img src="https://img.shields.io/badge/Email-1a1b27?style=for-the-badge&logo=gmail&logoColor=f7768e" /></a>
+  <a href="https://leetcode.com/u/omsatodiya"><img src="https://img.shields.io/badge/LeetCode-1a1b27?style=for-the-badge&logo=leetcode&logoColor=e0af68" /></a>
+  <a href="https://codeforces.com/profile/omsatodiya"><img src="https://img.shields.io/badge/Codeforces-1a1b27?style=for-the-badge&logo=codeforces&logoColor=7dcfff" /></a>
 </p>
 
-<div align="center">
-  <img width="200" height="200" alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
-</div>
-
 <p align="center">
-  Hi, I’m Om Satodiya, a passionate Full Stack Developer & Competitive Programmer. I enjoy building real-world projects, working with modern web stacks, and sharpening my problem-solving skills through Data Structures & Algorithms. Feel free to reach out :)
+  <img src="https://komarev.com/ghpvc/?username=omsatodiya&label=profile%20views&color=7aa2f7&style=flat-square" />
+  <a href="https://wakatime.com/@45c5f064-3af8-47f3-9170-3dcadb77f9d5"><img src="https://wakatime.com/badge/user/45c5f064-3af8-47f3-9170-3dcadb77f9d5.svg?style=flat-square" alt="wakatime" /></a>
 </p>
 
-<div align="center">
-<div>🔭 I'm currently working on <strong>Real-World Projects</strong></div
-<div>📫 Reach me at <a href="mailto:omsatodiya96@gmail.com">omsatodiya96@gmail.com</a></div>
-<div align="center">🌐 Portfolio: <a href="https://om-satodiya.vercel.app/" target="_blank">om-satodiya.vercel.app</a></div>
-</div>
+<!-- ============ ABOUT ============ -->
+## `$ whoami`
 
-<br>
+```yaml
+name:      Om Satodiya
+role:      Final-year B.Tech CS @ SVNIT Surat (2027)
+focus:     backend systems · async job pipelines · RAG · multi-tenant SaaS
+latest:    TenantOpsBench — grading LLM agents on real DB state, not vibes
+community: ACM Student Chapter & GDSC @ SVNIT · Amazon ML Summer School '26
+cp:        LeetCode 1809 peak · Codeforces 1344 peak
+ask_me:    Postgres RLS, BullMQ, why your RAG retrieves the wrong chunk
+```
+
+<!-- ============ BUILD LOG ============ -->
+## 📦 Build Log
+
+> Things I've shipped, newest first. Team size listed honestly — my part is what's described.
+
+| | Project | What it is | Stack |
+|:-:|---|---|---|
+| 🧪 | **[TenantOpsBench](https://github.com/omsatodiya/tenantopsbench)** <br><sub>solo</sub> | Benchmark that drops LLM agents into a mock multi-tenant SaaS (billing, job queue, helpdesk, audit log) and grades their ticket fixes by **final database state** — every ticket hides a trap that naive fixes fall into. | Python · FastAPI · Postgres RLS · Docker · pytest |
+| 🏘️ | **[ConnectIQ](https://github.com/omsatodiya/AI-Manthan)** <br><sub>hackathon · team of 4</sub> | Multi-tenant LLM community platform. I built the user matchmaking engine, the hybrid RAG assistant, and tenant isolation with real Postgres RLS policies. | Next.js · Postgres · Groq (Llama 3.3 70B) |
+| 💸 | **[FinBridge](https://github.com/omsatodiya/Finbridge---HTT3)** <br><sub>hackathon · team of 3</sub> | Offline-first field-agent PWA. I built async jobs on BullMQ/Redis, a multimodal sentiment pipeline (RoBERTa INT8-ONNX + Wav2Vec2), and IndexedDB sync that survives flaky reconnects. | BullMQ · Redis · FastAPI · Dexie · ONNX |
+| 🔎 | **[Distributed RAG Core](https://github.com/omsatodiya/Distributed-RAG)** <br><sub>team</sub> | RAG split into ingestion and query services. I owned the embedding worker, the Qdrant vector-store service with search cache, and the query service (retrieval, reranking, multi-provider dispatch). | Django · Qdrant · Groq / Ollama / Gemini |
+
+<!-- ============ STACK ============ -->
+## 🧰 Toolbox
+
 <p align="center">
-  <a href="https://skillicons.dev">
-<img src="https://go-skill-icons.vercel.app/api/icons?i=anaconda,bootstrap,c,cpp,python,css,django,docker,fastapi,figma,firebase,flask,gcp,git,github,githubactions,html,js,langchain,mongodb,mysql,netlify,nextjs,nodejs,npm,opencv,postgres,postman,prisma,py,qdrant,react,redis,seaborn,sklearn,sqlite,streamlit,tailwind,tensorflow,typescript,supabase,vercel&perline=7" />
-
-  </a>
+  <b>Backend</b><br>
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=nodejs,express,fastapi,django,python,typescript,cpp&theme=dark" />
+  <br><br>
+  <b>Data & Infra</b><br>
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=postgres,redis,mongodb,supabase,firebase,qdrant,docker,githubactions,gcp,vercel&theme=dark" />
+  <br><br>
+  <b>Frontend</b><br>
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=nextjs,react,tailwind,html,css&theme=dark" />
+  <br><br>
+  <b>AI / ML</b><br>
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=langchain,tensorflow,sklearn,opencv&theme=dark" />
 </p>
 
-  
-<h2>My Contribution Graph<h2>
+<!-- ============ STATS ============ -->
+## 📊 Stats
 
+<!-- Cards below are generated by .github/workflows/profile-cards.yml and stored in this repo — no rate limits -->
 <p align="center">
-<img width="800" src="https://github-readme-activity-graph.vercel.app/graph?username=omsatodiya" />
-<br>
-<p>
-
-<h2>GitHub Stats<h2>
-
-<br>
-<p align="center">
-  <a href="https://github-readme-stats-sigma-five.vercel.app/api?username=omsatodiya&show_icons=true&theme=tokyonight">
-    <img width="400" src="https://github-readme-stats-sigma-five.vercel.app/api?username=omsatodiya&show_icons=true&theme=tokyonight" />
-  </a>
-  <a href="https://github-readme-streak-stats.herokuapp.com/?user=omsatodiya&theme=tokyonight">
-    <img width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=omsatodiya&theme=tokyonight" />
-  </a>
-  <a href="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=omsatodiya&theme=dark&layout=compact">
-    <img width="400" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=omsatodiya&theme=dark&layout=compact" /> 
-  </a>
+  <img width="100%" src="./profile-summary-card-output/tokyonight/0-profile-details.svg" />
 </p>
 
+<p align="center">
+  <img height="180" src="./profile-summary-card-output/tokyonight/3-stats.svg" />
+  <img height="180" src="./profile-summary-card-output/tokyonight/2-most-commit-language.svg" />
+</p>
 
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=omsatodiya&theme=tokyonight&hide_border=true&border_radius=10&date_format=M%20j%5B%2C%20Y%5D" />
+</p>
+
+<p align="center">
+  <img width="100%" src="https://raw.githubusercontent.com/omsatodiya/omsatodiya/output/github-snake-dark.svg" alt="contribution snake" />
+</p>
+
+<!-- ============ TROPHIES ============ -->
+## 🏆 Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=omsatodiya&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=1&column=6" />
+</p>
+
+<!-- ============ FOOTER ============ -->
+<p align="center"><sub>Open to backend / AI engineering internships for Jan–Jul 2027 — <a href="mailto:omsatodiya96@gmail.com">say hi</a>.</sub></p>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:7aa2f7,100:1a1b27&height=100&section=footer" />
