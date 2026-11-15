@@ -45,22 +45,27 @@ ask_me:    Postgres RLS, BullMQ, why your RAG retrieves the wrong chunk
 | 💸 | **[FinBridge](https://github.com/omsatodiya/Finbridge---HTT3)** <br><sub>hackathon · team of 3</sub> | Offline-first field-agent PWA. I built async jobs on BullMQ/Redis, a multimodal sentiment pipeline (RoBERTa INT8-ONNX + Wav2Vec2), and IndexedDB sync that survives flaky reconnects. | BullMQ · Redis · FastAPI · Dexie · ONNX |
 | 🔎 | **[Distributed RAG Core](https://github.com/omsatodiya/Distributed-RAG)** <br><sub>team</sub> | RAG split into ingestion and query services. I owned the embedding worker, the Qdrant vector-store service with search cache, and the query service (retrieval, reranking, multi-provider dispatch). | Django · Qdrant · Groq / Ollama / Gemini |
 
+
 <!-- ============ STACK ============ -->
 ## 🧰 Toolbox
 
-<p align="center">
+<div align="center">
   <b>Backend</b><br>
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=nodejs,express,fastapi,django,python,typescript,cpp&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,django,py,ts,cpp&theme=dark" />
   <br><br>
+
   <b>Data & Infra</b><br>
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=postgres,redis,mongodb,supabase,firebase,qdrant,docker,githubactions,gcp,vercel&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=postgres,redis,mongodb,supabase,firebase,docker,githubactions,gcp,vercel&theme=dark" />
   <br><br>
+
   <b>Frontend</b><br>
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=nextjs,react,tailwind,html,css&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=nextjs,react,tailwind,html,css&theme=dark" />
   <br><br>
+
   <b>AI / ML</b><br>
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=langchain,tensorflow,sklearn,opencv&theme=dark" />
-</p>
+  <img src="https://skillicons.dev/icons?i=tensorflow,sklearn,opencv&theme=dark" />
+</div>
+
 
 <!-- ============ STATS ============ -->
 ## 📊 Activity
@@ -70,11 +75,6 @@ ask_me:    Postgres RLS, BullMQ, why your RAG retrieves the wrong chunk
   <img width="100%" src="./assets/activity.svg" alt="weekly contribution load" />
 </p>
 
-## 🧾 Receipt
-
-<p align="center">
-  <img src="./assets/receipt.svg" alt="build log receipt — recent commits, languages, totals" />
-</p>
 
 <!-- ============ FOOTER ============ -->
 <p align="center"><sub>Open to backend / AI engineering internships for Jan–Jul 2027 — <a href="mailto:omsatodiya96@gmail.com">say hi</a>.</sub></p>
